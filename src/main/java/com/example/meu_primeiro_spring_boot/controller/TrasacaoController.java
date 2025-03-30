@@ -20,6 +20,10 @@ public class TrasacaoController {
     @Autowired
     private TransacaoService transacaoService;
 
+    @PostMapping("/transacao")
+    public ResponseEntity<List<TransacaoModel>> transacao(@RequestBody TransacaoModel transacaoModel){
+        return ResponseEntity.ok(transacaoService.recebertrasacao(transacaoModel));
+    }
 
     @DeleteMapping("/del")
     public String deletarRegistros(){
