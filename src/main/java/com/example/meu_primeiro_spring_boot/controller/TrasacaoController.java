@@ -36,28 +36,4 @@ public class TrasacaoController {
     //     return transacaoService.transacoes();
     // }
 
-
-
-
-    // vai toma no cu todo mundo 
-    // vai toma no cu todo mundo 
-    // vai toma no cu todo mundo 
-    // vai toma no cu todo mundo 
-
-
-
-
-
-
-    // vai toma no cu todo mundo // vai toma no cu todo mundo // vai toma no cu todo mundo // vai toma no cu todo mundo // vai toma no cu todo mundo 
-    // vai toma no cu todo mundo 
-    // vai toma no cu todo mundo 
-    // vai toma no cu todo mundo 
-    // vai toma no cu todo mundo 
-    // vai toma no cu todo mundo 
-    // vai toma no cu todo mundo 
-    // vai toma no cu todo mundo 
-    // vai toma no cu todo mundo 
-    // vai toma no cu todo mundo 
-
 }
